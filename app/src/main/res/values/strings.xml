@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="title">Заметки</string>
+    <string name="edittitletext">Enter title text</string>
+    <string name="editnotetext">Enter your note text here</string>
+    <string name="btnsavenote">Save Note</string>
+    <string name="btncreatenote">Create Note</string>
+    <string name="deletenote">Удалить запись</string>
+    <string name="delRec">Удалить запись</string>
+    <string name="editRec">Редактировать</string>
+    <string name="titleemptytext">Title text cannot be empty</string>
+</resources>
